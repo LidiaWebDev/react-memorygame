@@ -13,5 +13,7 @@ Main features of the game:
 - Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 - Once the user's score is reset after an incorrect guess, the game should restart.
 
-
+The pictures were used from Veber stickers app
+![Goggpic](/images/dogs.png)
+Format: ![Alt Text](url)
 
