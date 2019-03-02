@@ -15,5 +15,4 @@ Main features of the game:
 
 The pictures were used from Veber stickers app
 ![Goggpic](/images/dogs.png)
-Format: ![Alt Text](url)
 
