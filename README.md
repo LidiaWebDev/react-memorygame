@@ -1,4 +1,5 @@
 # react-memorygame
+Link to the game https://lidiawebdev.github.io/react-memorygame/
 Game concept: there are 12 cards, each card you can click only once in order to win
 
 Main features of the game: 
